@@ -1,4 +1,3 @@
-    ```assembly
     section .data
         a db 5
         b db 10
